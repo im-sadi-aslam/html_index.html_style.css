@@ -1,0 +1,19 @@
+.box{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: -2px;
+    font-size: 80px;
+    text-align: center;
+}
+.lightblue{
+    background-color: lightblue;
+    color: black;
+}
+h1{
+    margin-bottom: 100px;
+    text-size-adjust: xx-large;
+}    
+
+
